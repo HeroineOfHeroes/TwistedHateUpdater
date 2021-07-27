@@ -2,5 +2,5 @@
 <Version: 1.0.1>
 /data/Map029.json https://raw.githubusercontent.com/HeroineOfHeroes/TwistedHateUpdater/main/Map029.json
 /data/Enemies.json https://raw.githubusercontent.com/HeroineOfHeroes/TwistedHateUpdater/main/Enemies.json
-patchnotes.txt https://raw.githubusercontent.com/HeroineOfHeroes/TwistedHateUpdater/main/patchnotes.txt
+/TwitstedHate/patchnotes.txt https://raw.githubusercontent.com/HeroineOfHeroes/TwistedHateUpdater/main/patchnotes.txt
 <End of Version>
