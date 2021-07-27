@@ -1,0 +1,14 @@
+Patch Notes:
+
+Version 1.0.0 Released
+
+   -added (PLAYER)
+   -found (???)
+   -???; 23512315135
+   -data has been added
+   -???; 514101525
+
+Version 1.0.1 Released
+
+   -Fixed Anti, Dark, Blank fight to make sure you can't beat them
+   -Fixed Void chase map to prevent being on a tile
